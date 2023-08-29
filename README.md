@@ -1,1 +1,1 @@
-# INF2001-Team-Project-P5-7
+# INF2001-P5-7
